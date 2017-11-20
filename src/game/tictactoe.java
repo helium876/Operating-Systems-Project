@@ -26,7 +26,7 @@ public class tictactoe extends JFrame {
 				Main.checkforwin();
 				Main.playerTurn = false;
 			}else {
-				button1.setText("0");
+				button1.setText("O");
 				Main.checkforwin();
 				Main.playerTurn = true;
 			}
@@ -40,7 +40,7 @@ public class tictactoe extends JFrame {
 				Main.checkforwin();
 				Main.playerTurn = false;
 			}else {
-				button2.setText("0");
+				button2.setText("O");
 				Main.checkforwin();
 				Main.playerTurn = true;
 			}
@@ -54,7 +54,7 @@ public class tictactoe extends JFrame {
 				Main.checkforwin();
 				Main.playerTurn = false;
 			}else {
-				button3.setText("0");
+				button3.setText("O");
 				Main.checkforwin();
 				Main.playerTurn = true;
 			}
@@ -68,7 +68,7 @@ public class tictactoe extends JFrame {
 				Main.checkforwin();
 				Main.playerTurn = false;
 			}else {
-				button4.setText("0");
+				button4.setText("O");
 				Main.checkforwin();
 				Main.playerTurn = true;
 			}
@@ -82,7 +82,7 @@ public class tictactoe extends JFrame {
 				Main.checkforwin();
 				Main.playerTurn = false;
 			}else {
-				button5.setText("0");
+				button5.setText("O");
 				Main.checkforwin();
 				Main.playerTurn = true;
 			}
@@ -96,7 +96,7 @@ public class tictactoe extends JFrame {
 				Main.checkforwin();
 				Main.playerTurn = false;
 			}else {
-				button6.setText("0");
+				button6.setText("O");
 				Main.checkforwin();
 				Main.playerTurn = true;
 			}
@@ -110,7 +110,7 @@ public class tictactoe extends JFrame {
 				Main.checkforwin();
 				Main.playerTurn = false;
 			}else {
-				button7.setText("0");
+				button7.setText("O");
 				Main.checkforwin();
 				Main.playerTurn = true;
 			}
@@ -124,7 +124,7 @@ public class tictactoe extends JFrame {
 				Main.checkforwin();
 				Main.playerTurn = false;
 			}else {
-				button8.setText("0");
+				button8.setText("O");
 				Main.checkforwin();
 				Main.playerTurn = true;
 			}
@@ -138,7 +138,7 @@ public class tictactoe extends JFrame {
 				Main.checkforwin();
 				Main.playerTurn = false;
 			}else {
-				button9.setText("0");
+				button9.setText("O");
 				Main.checkforwin();
 				Main.playerTurn = true;
 			}
